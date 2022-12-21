@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Akvelon_web_api.Service</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Akvelon-web-api.DAL\Akvelon-web-api.DAL.csproj" />
+      <ProjectReference Include="..\Akvelon-web-api.Domain\Akvelon-web-api.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

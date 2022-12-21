@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akvelon-web-api.Presentation", "Akvelon-web-api.Presentation\Akvelon-web-api.Presentation.csproj", "{48465705-7430-4DCB-BA89-5728775418A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akvelon-web-api.DAL", "Akvelon-web-api.DAL\Akvelon-web-api.DAL.csproj", "{FB08B04C-9636-41C9-86B4-774BFE8727DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akvelon-web-api.Service", "Akvelon-web-api.Service\Akvelon-web-api.Service.csproj", "{BBEEE8C5-016C-4778-BF09-B1B8D7F1F2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akvelon-web-api.Domain", "Akvelon-web-api.Domain\Akvelon-web-api.Domain.csproj", "{A07E46CA-CE36-4E03-9C86-C437A1B2427E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akvelon-web-api.Tests", "Akvelon-web-api.Tests\Akvelon-web-api.Tests.csproj", "{1824B71B-42C1-4413-8EB5-1E7C58160989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48465705-7430-4DCB-BA89-5728775418A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48465705-7430-4DCB-BA89-5728775418A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48465705-7430-4DCB-BA89-5728775418A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48465705-7430-4DCB-BA89-5728775418A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB08B04C-9636-41C9-86B4-774BFE8727DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB08B04C-9636-41C9-86B4-774BFE8727DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB08B04C-9636-41C9-86B4-774BFE8727DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB08B04C-9636-41C9-86B4-774BFE8727DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEEE8C5-016C-4778-BF09-B1B8D7F1F2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEEE8C5-016C-4778-BF09-B1B8D7F1F2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEEE8C5-016C-4778-BF09-B1B8D7F1F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEEE8C5-016C-4778-BF09-B1B8D7F1F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07E46CA-CE36-4E03-9C86-C437A1B2427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07E46CA-CE36-4E03-9C86-C437A1B2427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07E46CA-CE36-4E03-9C86-C437A1B2427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07E46CA-CE36-4E03-9C86-C437A1B2427E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1824B71B-42C1-4413-8EB5-1E7C58160989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1824B71B-42C1-4413-8EB5-1E7C58160989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1824B71B-42C1-4413-8EB5-1E7C58160989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1824B71B-42C1-4413-8EB5-1E7C58160989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
